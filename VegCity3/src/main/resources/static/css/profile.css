@@ -10,12 +10,12 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
-#logout {
-    width: 80px;
-    color: white;
-    position: absolute;
-    left: 72%;
-    top: -9%;
+a{
+    color: #078146;
+    display: flex;
+    width: 171%;
+    flex-direction: column;
+    align-items: center;
 }
 
 .container {
